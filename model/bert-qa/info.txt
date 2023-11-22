@@ -1,0 +1,1 @@
+This path will store the pre-trained BERT model
